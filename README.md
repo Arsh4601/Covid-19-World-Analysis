@@ -1,2 +1,2 @@
 # Covid-19-World-Analysis
-Data Analysis of the current Covid 19 situation  world wide with data updating every 15 minutes. Using Covid 19 rapid api
+The data shown here is the current information which is updated every 15 minutes taken from the Covid 19 api taken from www.rapidapi.com. You can either have a overall overview of current Covid 19 suituation in the world as a whole or the continents as a whole or specifically in a country. The current population and the total no of covid cases till date , number of active,critical, recovered cases and deaths reported.
