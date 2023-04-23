@@ -169,4 +169,4 @@ with placeholder.container():
 
 
 
-st.info("The data shown here is the current information which is updated every 15 minutes from the Covid 19 api available on www.rapidapi.com. You can either have a overall overview of current Covid 19 suituation in the world as a whole or the continents as a whole or specifically in a country. The current population and the total no of covid cases till date  , number of  active,critical, recovered cases and deaths reported.")
+st.info("This dashboard represents the current information of the Covid 19 suituation worldwide which is updated every 15 minutes, extracted from the Covid 19 api available on www.rapidapi.com. You can either have a overall overview of current Covid 19 suituation in the world as a whole or the continents as a whole or specifically in a country. You can observe the current population and the total no of covid cases till date , number of  active,critical,recovered cases and deaths reported.")
